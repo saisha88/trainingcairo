@@ -3,8 +3,8 @@
 This repository contains an AI-powered system for detecting **three major paddy (rice) diseases**, including:
 
 - 🦠 Bacterial Panicle Blight  
-- 🍃 [Disease 2 Name]  
-- 🟤 [Disease 3 Name]  
+- 🍃 Karah daun
+- 🟤 Bacterial Leave Blight
 
 Built with deep learning and image processing techniques, this project aims to assist farmers, agronomists, and researchers by enabling accurate and fast diagnosis of common rice diseases.
 
